@@ -1,0 +1,36 @@
+{
+	"Actor":{},
+	"Item": 
+	{
+		"types": 
+		[
+			"weapon"
+		],
+
+		"templates": 
+		{
+			"base": 
+			{
+				"description": ""
+			}
+		},
+
+		"weapon": 
+		{
+			"templates": [ "base" ],
+			"name": "",
+			"cost": 0,
+			"type": "",
+			"size": "",
+			"ammo": "",
+			"gearscore": 0,
+			"properties": "",
+			"accuracy": 0,
+			"damage": "",
+			"reach": 0,
+			"meleecover": 0,
+			"upgrade1": "",
+			"upgrade2": ""
+		}
+	}
+}

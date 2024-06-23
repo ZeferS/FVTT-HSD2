@@ -1,0 +1,39 @@
+{
+	"id": "hsd2",
+	"title": "Hc Svnt Dracones: Second Edition",
+	"description": "A system for HSD 2",
+	"version": "1.0",
+	"author": "Zefer",
+	
+	"compatibility":
+	{
+		"minimum": "12",
+		"verified": "12"
+	},
+	
+	"esmodules":
+	[
+	
+	],
+	
+	"styles":
+	[
+	
+	],
+	
+	"packs":
+	[
+	
+	],
+	
+	"languages":
+	[
+	
+	],
+	
+	"grid.distance": 5,
+	"grid.units": "ft",
+	
+	"primaryTokenAttribute": "Wounds",
+	"initiative": "1d10"
+}
